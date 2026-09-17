@@ -1,4 +1,6 @@
 .venv/
+.demo-home/
 __pycache__/
 *.pyc
 media/video/
+.wiki-publish/
